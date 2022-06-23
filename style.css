@@ -43,6 +43,10 @@ p {
   color: black;
 }
 
+canvas{
+  border:7px dashed #4A4747
+}
+
 .row {
   display: -ms-flexbox;
   display: flex;
